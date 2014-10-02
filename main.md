@@ -1,9 +1,3 @@
-<!-- 
-$ pandoc -S -o main.pdf --filter pandoc-citeproc main.md 
-$ pandoc -S -o main.docx --reference-docx=templates/reference.docx --filter pandoc-citeproc main.md 
-$ pandoc -s -t s5 --mathjax main.md -o main.html
--->
-
 ---  
 title: A sample paper  
 author: Nikola Sander and Ramon Bauer
